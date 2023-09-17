@@ -1,0 +1,52 @@
+{
+  "name": "nsfwhub",
+  "version": "0.0.1",
+  "description": "Artificial Intelligence Supported NSFW Image, Gif Package, 30+ Categories Constantly Updated NSFW Content.",
+  "main": "index.js",
+  "types": "./typings/index.d.ts",
+  "keywords": [
+    "nsfw",
+    "nsfw-image",
+    "image",
+    "porn",
+    "pornhub",
+    "images",
+    "png",
+    "gif",
+    "hentai",
+    "reddit",
+    "boobs",
+    "anime",
+    "real",
+    "neko",
+    "nekos",
+    "discord"
+  ],
+  "scripts": {
+    "types": "tsc"
+  },
+  "author": {
+    "name": "Bes-js",
+    "url": "https://github.com/Bes-js/"
+  },
+  "license": "GPL-3.0",
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://www.buymeacoffee.com/beykant"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bes-js/nsfwhub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bes-js/nsfwhub"
+  },
+  "homepage": "https://discord.gg/luppux",
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}
